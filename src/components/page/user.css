@@ -1,0 +1,38 @@
+.sinput_chaxun{
+    width:232px;
+    display:inline-block
+}
+.sinput_anniu{
+    display:inline-block
+}
+.el-input__inner{
+    height: 32px!important;
+    line-height: 32px!important;
+}
+.el-button+.el-button {
+    margin-left: 0px!important;
+}
+.marl10{
+    margin-left: 10px;
+}
+.padl3{
+    padding-left: 3px;
+}
+.tablemar20{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.alignright{
+    text-align: right;
+    line-height: 32px;
+    padding-right: 10px;
+}
+.userz .form-group{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    line-height: 32px;
+}
+.userz .el-select {
+    display: block;
+    position: relative;
+}
